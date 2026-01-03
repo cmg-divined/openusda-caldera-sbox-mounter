@@ -1,6 +1,10 @@
+![sbox_preview](<img width="1254" height="552" alt="image" src="https://github.com/user-attachments/assets/2cbb7efd-7a2d-48b4-90b1-70bdace0335e" />
+
+
 # OpenUSDA for s&box
 
 A pure C# implementation of a USD (Universal Scene Description) loader for s&box, capable of loading massive scenes like the full Caldera map from Call of Duty: Warzone.
+Credits to [Sam Pavlovic](https://github.com/sampavlovic) for introducing this challenge.
 
 ## Overview
 
@@ -145,4 +149,5 @@ The loader handles this conversion automatically when reading transforms and ver
 ## Credits
 
 This project was developed to load the Caldera dataset released by Activision under the OpenUSD Alliance. The dataset is available at [https://openusd.org/release/dl_caldera.html](https://openusd.org/release/dl_caldera.html). God bless!
+
 
